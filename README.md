@@ -22,6 +22,8 @@ Input Operation:
 # Output:
 The program calculates and displays the result of the chosen operation.
 If division is selected and the second number is zero, the program will alert the user that division by zero is not possible.
+
+
 ![1](https://github.com/user-attachments/assets/03cba12f-0690-48cb-a46e-0dda06a56cde)
 
 # Prerequisites
